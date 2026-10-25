@@ -1,0 +1,14 @@
+[
+  {
+    "query": "What is the refund policy?",
+    "ground_truth": "Refunds are available within 30 days of purchase."
+  },
+  {
+    "query": "Are digital products refundable?",
+    "ground_truth": "Digital products are non-refundable."
+  },
+  {
+    "query": "How long does shipping take?",
+    "ground_truth": "Shipping takes 3-5 business days."
+  }
+]
